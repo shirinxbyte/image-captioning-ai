@@ -3,9 +3,9 @@ Pillow==9.5.0
 transformers==4.38.2
 torch==2.2.1
 
-* **requests**: To handle HTTP requests (in case you fetch images or use any web API).
-* **Pillow**: For image processing (like opening and converting the image).
-* **transformers**: For the BLIP model to generate image captions.
-* **torch**: PyTorch, needed to run the model since `transformers` depends on it.
+* requests: To handle HTTP requests (in case you fetch images or use any web API).
+* Pillow: For image processing (like opening and converting the image).
+* transformers: For the BLIP model to generate image captions.
+* torch: PyTorch, needed to run the model since `transformers` depends on it.
 
 
