@@ -47,12 +47,6 @@ This project uses the **BLIP** (Bootstrapping Language-Image Pre-training) model
 
 ---
 
-## 🏷️ **Contributing:**
-
-Feel free to fork and improve the project! Pull requests are always welcome.
-
----
-
 ### Enjoy using AI to describe images! ✨
 
 ---
