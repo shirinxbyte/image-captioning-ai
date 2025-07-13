@@ -7,7 +7,7 @@ This project uses the **BLIP** (Bootstrapping Language-Image Pre-training) model
 ## ⚙️ **Technologies Used:**
 
 * Python
-* BLIP Model by Salesforce 
+* BLIP Model by Salesforce  
 * Transformers (Hugging Face)
 * Gradio, Pillow, Requests
 
