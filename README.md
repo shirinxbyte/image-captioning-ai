@@ -1,7 +1,7 @@
 # Image-Captioning-AI
 
 This project uses the **BLIP** (Bootstrapping Language-Image Pre-training) model to generate captions for images. Upload an image, and the AI will describe it!   
-
+ 
 ---
 
 ## ⚙️ **Technologies Used:**
