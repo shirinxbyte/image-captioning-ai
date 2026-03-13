@@ -1,4 +1,4 @@
-import requests
+import requests 
 from PIL import Image 
 from transformers import AutoProcessor, BlipForConditionalGeneration
 
