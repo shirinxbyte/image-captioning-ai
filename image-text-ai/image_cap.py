@@ -10,7 +10,7 @@ img_path = "maths.jpg"
  
 image = Image.open(img_path).convert('RGB')
 
-# You do not need a question for image captioning
+
 text = "the image of"
 inputs = processor(images=image, text=text, return_tensors="pt")
 
